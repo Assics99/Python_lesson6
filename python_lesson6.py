@@ -34,5 +34,6 @@ def main():
             score+=2
     print("Рейтинг пароля:", score)
 
+
 if __name__ == '__main__':
     main()
